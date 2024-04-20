@@ -8,3 +8,4 @@ print('!')
 
 z= [0, 1, 2, 3, 4]
 print(sin(z))
+print('cos(',z,')=',cos(z))
