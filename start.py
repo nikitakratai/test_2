@@ -15,6 +15,6 @@ matrix = [[a, b, c, d],[e, f, g, h], [m, n, l, k]]
 [[row[i] for row in matrix] for i in range(4)]
 
 
-sentence = ['Mary', 'had', 'a', 'little', 'lamb', '...' ,'ohh', 'no....', 'there is no more this lamb =))']
+sentence = ['Mary', 'had', 'a', 'little', 'lamb', '...' ,'ohh', 'no....', 'there is no more this lamb =))', 'because it was eaten xD']
 for i in range(len(sentence)):
   print(i, sentence[i])
