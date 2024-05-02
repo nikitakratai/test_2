@@ -28,3 +28,8 @@ for n in range(2, 10):
 else:
   print(n, 'is a prime number')
   pass
+
+
+import fibo
+fib = fibo.fib
+dir()
