@@ -33,3 +33,9 @@ else:
 import fibo
 fib = fibo.fib
 dir()
+
+cq = ['a', 'z', 'we', 5, 'q', fib]
+del cq[0]
+cq
+del cq[2:4]
+cq
